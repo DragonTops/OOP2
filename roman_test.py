@@ -1,4 +1,4 @@
-import roman_class
+from roman_class import Roman
 
 # Примеры использования
 a = Roman("XX")    # 20
